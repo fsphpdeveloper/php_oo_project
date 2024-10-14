@@ -1,0 +1,13 @@
+{
+    "name": "dev/php_oo_project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lucioweb",
+            "email": "lucio.lemos.385@ufrn.edu.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
